@@ -1,0 +1,18 @@
+
+body{
+    color: orangered;
+    background-color: black;
+}
+
+.contenedor{
+    background-color: black;
+    display: flexbox;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.imagen{
+    width: 300px;
+    height: 220px;
+    border: 5px solid;
+}
